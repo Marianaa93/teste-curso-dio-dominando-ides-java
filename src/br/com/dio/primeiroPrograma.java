@@ -20,7 +20,7 @@ public class primeiroPrograma {
 	
 	
  class Livros{
-	 private String nome;
+	 private String nomee;
 	 private String npagg;
  
 }
