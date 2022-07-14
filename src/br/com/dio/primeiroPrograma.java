@@ -21,6 +21,6 @@ public class primeiroPrograma {
 	
  class Livros{
 	 private String nomee;
-	 private String npagg;
+	 private String npaggg;
  
 }
